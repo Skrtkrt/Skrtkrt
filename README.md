@@ -88,6 +88,6 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 
-> “Test deeply. Automate everything. Build systems that last.” 🌙
+> “Engineer what matters.” 🌙
 
 </div>
