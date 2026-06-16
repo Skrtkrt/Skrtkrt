@@ -2,7 +2,7 @@
 
   <h1>Hi, I'm Kurt Russel</h1>
 
- ## 🎓 Computer Engineer | Pampanga State University (Don Honorio Ventura State University)</p> 
+ ## 🎓 Computer Engineer | Pampanga State University (DHVSU)
   <p>🌟Software Quality Assurance Automation Engineer</p> 
 </div>
 
