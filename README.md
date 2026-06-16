@@ -2,17 +2,18 @@
 
   <h1>Hi, I'm Kurt Russel</h1>
 
-  <p>🎓 Computer Engineer | Pampanga State University</p>
-
+ ## 🎓 Computer Engineer | Pampanga State University (Don Honorio Ventura State University)</p> 
+  <p>🌟Software Quality Assurance Automation Engineer</p> 
 </div>
 
 ---
 
-## 🛸 About Me
-- 💻 Computer Engineer focused on building software systems
-- 🌐 Interested in fullstack development and system automation
-- 🤖 Enjoy working with hardware + software integration
-- 🌱 Always learning and improving through projects  
+##  About Me
+- 🧪 Passionate about software quality, testing, and automation
+- 👾 Building reliable test frameworks and automation solutions
+- 🌐 Experienced with web, mobile, and API testing
+- 💡 Focused on delivering reliable and user-friendly software
+- 🚀 Continuously learning QA, DevOps, AI, and modern engineering practices
 
 ---
 
@@ -44,7 +45,11 @@
 
 ---
 
-## 🌙 Focus
+##  Focus
+- Software Quality Engineering
+- Test Automation & Workflow Automation
+- AI-Assisted Development
+- DevOps & Continuous Improvement
 - Software & system development  
 - Fullstack web applications  
 - Automation & workflow systems  
@@ -88,6 +93,6 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 
-> “Engineer what matters.”
+> “solve problems you didn’t know exist, in ways you do not understand.”
 
 </div>
