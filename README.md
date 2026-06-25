@@ -133,3 +133,8 @@
 > <details> <summary>Tips</summary> - “solve problems you didn’t know exist, in ways you do not understand..."</details>
 
 </div>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=20&pause=1500&center=true&vCenter=true&width=600&color=F8FAFC&lines=UNCOMMON;skrdm;skrtkrt;Kurt+Russel+Sison;Kurt+Russel+D.+Sison" />
+</p>
