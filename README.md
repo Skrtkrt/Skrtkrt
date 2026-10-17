@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=40&pause=50000&center=true&vCenter=true&width=800&color=FF6633&lines=Pampanga+State+University;Don+Honorio+Ventura+State+University" />
 
   <p> 
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&center=true&width=1100&color=F8FAFC&lines=Computer+Engineer+(Graduate);Software+Quality+Assurance+Automation+Engineer;Aspiring+Full-Stack+AI+Engineer" /> 
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&pause=1000&center=true&width=1100&color=F8FAFC&lines=Computer+Engineer+(Graduate);Artificial+Intelligence+Engineer;Aspiring+Full-Stack+Developer+/+Engineer" /> 
   </p>
 </div>
 
