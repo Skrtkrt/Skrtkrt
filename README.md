@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Skrtkrt&style=flat-square) 
 <div align="center"> 
 <h1>
   Hi, I'm <b><a href="https://skrdm.is-a.dev">Kurt Russel Sison</a></b>
