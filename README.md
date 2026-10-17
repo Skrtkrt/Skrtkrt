@@ -80,11 +80,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sison-kurt-russel-del-mundo-238168353/">
+<a href="https://www.linkedin.com/in/kurt-russel-sison-238168353/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" />
 </a>
 
-<a href="mailto:kurtsison137@gmail.com">
+<a href="mailto:engr.kurtrusselsison@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail" height="50" />
 </a>
 
@@ -92,7 +92,7 @@
   <img src="https://cdn.simpleicons.org/discord" height="50" />
 </a>
 
-<a href="https://www.instagram.com/kurt_delmundo">
+<a href="https://www.instagram.com/engr.skrd">
   <img src="https://cdn.simpleicons.org/instagram" height="50" />
 </a>
 
@@ -100,15 +100,15 @@
   <img src="https://cdn.simpleicons.org/facebook" height="50" />
 </a>
 
-<a href="https://x.com/kurtdelmundo">
+<a href="https://x.com/SisonKurtRussel">
   <img src="https://cdn.simpleicons.org/x/white" height="50" />
 </a>
 
-<a href="https://bsky.app/profile/krdms.bsky.social">
+<a href="https://bsky.app/profile/skrtkrt.bsky.social">
   <img src="https://cdn.simpleicons.org/bluesky" height="50" />
 </a>
 
-<a href="https://skrdm.vercel.app">
+<a href="https://skrd.is-a.dev">
   <img src="https://cdn.simpleicons.org/vercel/white" height="50" />
 </a>
 
@@ -134,9 +134,6 @@
     </tr>     
   </table>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skrtkrt&theme=github-dark" />
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
-
 </div>
 
 > <details> <summary>Tips</summary> - “solve problems you didn’t know exist, in ways you do not understand..."</details>
@@ -145,5 +142,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=20&pause=1500&center=true&vCenter=true&width=600&color=F8FAFC&lines=UNCOMMON;skrdm;skrtkrt;Kurt+Russel+Sison;Kurt+Russel+D.+Sison" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=20&pause=1500&center=true&vCenter=true&width=600&color=F8FAFC&lines=UNCOMMON;skrd;skrtkrt;Kurt+Russel+Sison;Kurt+Russel+D.+Sison" />
 </p>
