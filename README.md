@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="https://skrdm.is-a.dev">
+  <a href="https://skrd.me">
     <img
       src="https://img.shields.io/badge/🪐%20Warp%20to%20My%20Portfolio%20%E2%86%92-FF6633?style=for-the-badge"
       height="42"
