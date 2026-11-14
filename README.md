@@ -1,6 +1,6 @@
 <div align="center"> 
 <h1>
-  Hi, I'm <b><a href="https://skrdm.is-a.dev">Kurt Russel Sison</a></b>
+  Hi, I'm <b><a href="https://skrd.me">Sison, Kurt Russel D.</a></b>
 </h1>
   
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=40&pause=50000&center=true&vCenter=true&width=800&color=FF6633&lines=Pampanga+State+University;Don+Honorio+Ventura+State+University" />
